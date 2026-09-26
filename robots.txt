@@ -1,0 +1,5 @@
+# Passeio de Balão Paraná — regras para buscadores
+User-agent: *
+Allow: /
+
+Sitemap: https://passeidebalaoparana.com.br/sitemap.xml
